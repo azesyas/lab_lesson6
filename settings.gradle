@@ -1,0 +1,2 @@
+include ':app', ':yandexmaps', ':yandexdriver'
+rootProject.name='lab_lesson6'
